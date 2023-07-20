@@ -1,0 +1,19 @@
+ <h1 class="top">KOOL AID CODERS</h1>
+
+    <div class="topnav" id="myTopnav">
+        <a href="#home" class="active">Home</a>
+        <a href="E:\kool aid coders\product\index2.html">products</a>
+        <a href="#contact">Contact</a>
+        <a href="#about us">About us</a>
+    </div>
+    <img id="image-vangogh" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0FbhvniwQRZDioorSz6oW8N4nl-YG-_z2CQ&usqp=CAU" alt="pictor"> 
+    <p> welcome to KOOL AID CODERS at kool aid coders we sell braclets
+     these arent any braclet these are tech braclets like a phone our 
+     prices are starting at $2100 the price is so high because of how much
+      time my team put into it and because we needed lots of tech. you can reach us at our email or phone number</p>
+      
+      <p> our onwer is aliyahsowell</p>
+      <p> koolaidcoders@gmail.com</p>
+      <p> 123-456-678</p>
+      <input type="textarea"> 
+<button id="submitForm">Submit</button>
